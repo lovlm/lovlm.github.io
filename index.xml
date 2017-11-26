@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://lovlm.github.io/</link>
+    <link>https://lovlm.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Nov 2017 16:11:47 +0800</lastBuildDate>
     
-	<atom:link href="http://lovlm.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lovlm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fist</title>
-      <link>http://lovlm.github.io/post/fist/</link>
+      <link>https://lovlm.github.io/post/fist/</link>
       <pubDate>Sun, 26 Nov 2017 16:11:47 +0800</pubDate>
       
-      <guid>http://lovlm.github.io/post/fist/</guid>
+      <guid>https://lovlm.github.io/post/fist/</guid>
       <description> Hello Hugo  aaa bbb ccc ddd  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://lovlm.github.io/about/</link>
+      <link>https://lovlm.github.io/about/</link>
       <pubDate>Sun, 26 Nov 2017 16:11:05 +0800</pubDate>
       
-      <guid>http://lovlm.github.io/about/</guid>
+      <guid>https://lovlm.github.io/about/</guid>
       <description></description>
     </item>
     

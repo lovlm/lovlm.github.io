@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://lovlm.github.io/post/fist/</loc>
+    <lastmod>2017-11-26T16:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lovlm.github.io/about/</loc>
+    <lastmod>2017-11-26T16:11:05+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lovlm.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lovlm.github.io/</loc>
+    <lastmod>2017-11-26T16:11:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lovlm.github.io/post/</loc>
+    <lastmod>2017-11-26T16:11:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
